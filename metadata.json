@@ -1,0 +1,5 @@
+{
+  "name": "Gestión de Bodega Pro",
+  "description": "Un sistema completo para la gestión de una bodega o tienda pequeña. Permite manejar inventario, ventas al contado, ventas a crédito (fiados) y la emisión de recibos detallados.",
+  "requestFramePermissions": []
+}
